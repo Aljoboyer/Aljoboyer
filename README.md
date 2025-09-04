@@ -9,8 +9,8 @@
 ---
 
 ### About Me
-
-A Full Stack Developer dedicated to building sophisticated and scalable applications. With a focus on clean architecture and a seamless user experience, I transform complex challenges into intuitive and powerful digital products. My expertise spans across modern web and mobile ecosystems, from database design to front-end artistry.
+I am a full-stack web and mobile app developer with over <b className='text-[#f574b9]'>4 years</b> of experience in building scalable, high-performance digital solutions. My expertise includes modern website and mobile application development, with hands-on experience working on SAP B1 ERP systems, eCommerce and shop management platforms, and healthcare applications.
+Graduated in Computer Science and Engineering from Premier University, Chittagong, Bangladesh, I’ve had the opportunity to work with multiple companies, delivering impactful solutions across different industries. Beyond coding, I value collaboration, communication, and continuous learning to stay ahead in an ever-evolving tech landscape.
 
 ### My Toolkit
 
