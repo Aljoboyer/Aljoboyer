@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.keycdn.com/img/support/full-stack-development-lg@2x.webp" alt="A professional banner representing your work." />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBC8QVthoIwRZsPwZ9jgjzr1oKj_32hB4Hmw&s" alt="A professional banner representing your work." />
 </div>
 
 <div align="center">
