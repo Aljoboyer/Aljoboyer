@@ -23,17 +23,6 @@ Graduated in Computer Science and Engineering from Premier University, Chittagon
   <img src="https://img.shields.io/badge/-MySQL-02569B?logo=mysql&logoColor=white&style=for-the-badge" />
 </p>
 
----
-
-### Featured Projects
-_Highlighting some of my most impactful work._
-
-* **Project Name 1**
-    * `Brief description of a highly polished project.`
-* **Project Name 2**
-    * `Brief description of a significant contribution or a complex solution.`
-
----
 
 ### Let's Connect
 
