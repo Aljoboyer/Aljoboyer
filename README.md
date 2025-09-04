@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="your-banner-image-url.png" alt="A professional banner representing your work." />
+  <img src="https://www.keycdn.com/img/support/full-stack-development-lg@2x.webp" alt="A professional banner representing your work." />
 </div>
 
 <div align="center">
-  <h1>Hi, I'm [Your Name]! 👋</h1>
+  <h1>Hi, I'm Abdul Al Joboyer Chy! 👋</h1>
 </div>
 
 ---
@@ -36,6 +36,6 @@ _Highlighting some of my most impactful work._
 
 ### Let's Connect
 
-[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/yourprofile)
+[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />](https://www.linkedin.com/in/abdul-al-joboyer-chy/)
 [<img src="https://img.shields.io/badge/-Portfolio-000000?logo=wordpress&logoColor=white&style=for-the-badge" />](https://your-portfolio-url.com)
-[<img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />](mailto:your.email@example.com)
+[<img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />](mailto:aljoboyer@gmail.com)
