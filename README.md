@@ -15,6 +15,7 @@ Graduated in Computer Science and Engineering from Premier University, Chittagon
 ### My Toolkit
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-61DAFB?logo=javascript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
